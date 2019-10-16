@@ -1,2 +1,2 @@
 # nlprecipes
-Learning by doing - NLP Recipes Book
+Learning by doing
